@@ -1,1 +1,3 @@
 # GradientDescent
+
+first time - basic
